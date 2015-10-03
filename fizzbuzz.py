@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
-
 def fizzBuzz(numero):
 
     if(numero % 3 == 0 and numero % 5 == 0):
